@@ -2,7 +2,7 @@ package com.fanzy;
 
 public class TestGitFirst {
 
-	int x =9;
+
 	
 	public int sum(int x ,int y){
 		return x+y;

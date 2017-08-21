@@ -1,7 +1,7 @@
 package com.fanzy;
 
 public class TestGitFirst {
-
+	int x = 9;
 	int a = 9;
 
 	public void print(){
